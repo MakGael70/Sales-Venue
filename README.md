@@ -2,7 +2,7 @@ ____________________________Ful Customized Point Of Sale System_________________
 
 Database: Postgres
 
-1. Devise Gem: (For User Authentication)
+1. Devise Gem: (User Authentication)
 
 3. Bootstrap Gem: (for styling)
 
